@@ -4,7 +4,7 @@ A front-end recreation of the Afe Babalola University homepage, built during my 
 
 **[Live demo]()**
 
-![Screenshot of the homepage](screenshots/home.png)
+![Screenshot of the homepage](Screenshot 2026-10-03 at 16-22-51 Afe Babalola University ePortal.png)
 
 ## About
 
